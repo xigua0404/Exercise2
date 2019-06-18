@@ -14,7 +14,7 @@ class sentence:
     return newlist
 
   words="The cow jumped over the moon"
- 	#I can change it as a user input: words=input("Input a sentence with double quote:")
+#I can change it as a user input: words=input("Input a sentence with double quote:")
   wordslist=words.split(" ")
   #print wordslist
   check_sentence(wordslist)
