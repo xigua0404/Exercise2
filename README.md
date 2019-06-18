@@ -1,2 +1,4 @@
 # Exercise2
-Give a string; count the length of the longest word. The results should match and return true mean the test case is passed.
+1. Give a string
+2. Count the length of the longest word. 
+3. The results should match and return true which means the test case is passed.
